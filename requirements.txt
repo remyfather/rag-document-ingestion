@@ -1,0 +1,8 @@
+beautifulsoup4
+requests
+pdfminer.six
+langchain
+langchain-community
+pypdf
+python-dotenv
+flask
